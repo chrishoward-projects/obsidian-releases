@@ -18212,5 +18212,12 @@
     "author": "Jeffry",
     "description": "Collect related notes based on links/backlinks to provide focused context for external AI chatbots. Explore note relationships visually and export the bundle.",
     "repo": "shuxueshuxue/PackUp4AI"
-  }
+  },
+  {
+  "id": "sourcemode-styling",
+  "name": "Source Mode Styling",
+  "author": "Chris Howard",
+  "description": "Provides a customisable raw look in source mode using a monospace font to clearly differentiate from Live Preview.",
+  "repo": "chrishoward-projects/sourcemode-styling"
+}
 ]
